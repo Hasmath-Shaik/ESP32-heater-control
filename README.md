@@ -14,9 +14,10 @@ This is a simple embedded system project to control a smart heater using tempera
 
 See the `block-dig` and `Heater control systems`.
 
-## 🔗 Simulation Link (Wokwi)
+## 🔗 Live Simulation Link (Wokwi)
 
-👉 [Wokwi Project](https://wokwi.com/projects/436620623720940545)
+▶️ **[Run the project on Wokwi](https://wokwi.com/projects/436620623720940545)**  
+(Esp32 + DHT22 + LED + Buzzer for Heater State Simulation)
 
 ## 📂 Files Included
 
