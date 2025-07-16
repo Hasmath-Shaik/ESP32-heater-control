@@ -12,7 +12,7 @@ This is a simple embedded system project to control a smart heater using tempera
 
 ## 🛠️ Circuit Diagram
 
-See the `diagram.json` and `/screenshots` folder.
+See the `block-dig` and `Heater control systems`.
 
 ## 🔗 Simulation Link (Wokwi)
 
